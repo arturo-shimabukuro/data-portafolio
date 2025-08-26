@@ -21,7 +21,7 @@ relativeURLs = true
     description = "Bachelor in Industrial Engineering" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
-    front_page_content = ["abouts"]
+    front_page_content = ["abouts", "posts"]
 
 menu = [
         # Dict keys:
@@ -45,9 +45,9 @@ menu = [
         # Example:
         # ... /content/posts/introducing-poison.md
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
-        {Name = "portafolio", URL = "/test2/", Pre = "Recent", HasChildren = true, Limit = 5},
+        #{Name = "portafolio", URL = "/test2/", Pre = "Recent", HasChildren = true, Limit = 5},
         # Example of a list without a subheading or limit.
-        {Name = "Projects", URL = "/projects/"},
+        #{Name = "Projects", URL = "/projects/"},
         
         
     ]
@@ -55,7 +55,6 @@ menu = [
     # Links to your socials.  Comment or delete any you don't need/use. 
     
     email_url = "mailto://user@domain"
-    
     github_url = "https://github.com"
     linkedin_url = "https://linkedin.com"
     
