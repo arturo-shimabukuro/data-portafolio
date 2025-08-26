@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/sql/</link>
+    <description>Recent content in SQL on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID</title>
+      <link>http://localhost:1313/posts/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/covid/</guid>
+      <description>COVID 19 Project 1. Project Overview 1.1 Scope This project has the purpose to observe the evolution of the data of COVID, which countries have controlled better or worst the pandemic and analyze potential factors that might have affected the results.&#xA;1.2 Goals Analyze the countries that had more death based on population (also this based on certain period) Compare countries also by continent Which dates were the worst for each country 1.</description>
+    </item>
+    <item>
+      <title>COVID</title>
+      <link>http://localhost:1313/posts/project_1/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/project_1/covid/</guid>
+      <description>COVID 19 Project 1. Project Overview 1.1 Scope This project has the purpose to observe the evolution of the data of COVID, which countries have controlled better or worst the pandemic and analyze potential factors that might have affected the results.&#xA;1.2 Goals Analyze the countries that had more death based on population (also this based on certain period) Compare countries also by continent Which dates were the worst for each country 1.</description>
+    </item>
+  </channel>
+</rss>
