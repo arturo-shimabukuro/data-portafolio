@@ -1,7 +1,7 @@
 [module]
   [module.hugoVersion]
     min = "0.41.0"
-baseURL = "https://arturo-shimabukuro.github.io/data-portafolio"
+baseURL = "https://arturo-shimabukuro.github.io/data-portafolio/"
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -10,7 +10,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 # Important for GitHub Pages
 # publishDir = "docs"  # GitHub Pages can serve from /docs folder
 canonifyURLs = true
-relativeURLs = true
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
