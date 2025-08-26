@@ -1,8 +1,9 @@
 [module]
   [module.hugoVersion]
     min = "0.41.0"
-baseURL = "https://arturo-shimabukuro.github.io/data-portafolio/"
+baseURL = "https://arturo-shimabukuro.github.io/data-portafolio"
 languageCode = "en-us"
+title = "Luis Arturo Shimabukuro Araki - Data Portfolio"  
 theme = "poison"
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
@@ -20,7 +21,7 @@ canonifyURLs = true
     description = "Bachelor in Industrial Engineering" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
-    front_page_content = ["abouts", "posts"]
+    front_page_content = ["posts"]
 
 menu = [
         # Dict keys:
