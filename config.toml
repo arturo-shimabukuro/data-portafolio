@@ -10,8 +10,8 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 # Important for GitHub Pages
 # publishDir = "docs"  # GitHub Pages can serve from /docs folder
-canonifyURLs = true
-relativeURLs = false
+# canonifyURLs = true
+# relativeURLs = false
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
 
