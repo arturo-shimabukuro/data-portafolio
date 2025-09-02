@@ -37,7 +37,7 @@ menu = [
 
         # Example:
         # ... /content/about/about.md
-        {Name = "About me", URL = "data-portafolio/abouts/", HasChildren = false},
+        {Name = "About me", URL = "/data-portafolio/abouts/", HasChildren = false},
         
         # LIST
         # This example has a subheading of "Recent"
@@ -45,7 +45,7 @@ menu = [
 
         # Example:
         # ... /content/posts/introducing-poison.md
-        {Name = "Posts", URL = "data-portafolio/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Posts", URL = "/data-portafolio/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
         #{Name = "portafolio", URL = "/test2/", Pre = "Recent", HasChildren = true, Limit = 5},
         # Example of a list without a subheading or limit.
         #{Name = "Projects", URL = "/projects/"},
