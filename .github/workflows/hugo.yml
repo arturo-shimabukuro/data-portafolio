@@ -35,6 +35,11 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Verify theme installation
+        run: |
+          echo "Checking theme installation..."
+          ls -la themes/
+          ls -la themes/poison/ || echo "Poison theme not found!"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
