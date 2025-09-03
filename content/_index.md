@@ -2,6 +2,7 @@
 title: "Luis Arturo Shimabukuro Araki"
 date: 2024-08-26T10:00:00-00:00
 draft: false
+layout: single
 ---
 
 # Welcome to My Data Analysis Portfolio
